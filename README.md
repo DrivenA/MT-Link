@@ -1,2 +1,4 @@
 # model
-The code will be released soon.
+## Dependencies
+python==3.10.12
+torch==2.3.1
